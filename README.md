@@ -1,4 +1,4 @@
-# GG-Chrome-Tracker
+# JP-chrome-extension
 
 ## Description
 
