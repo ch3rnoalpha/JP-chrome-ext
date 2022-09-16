@@ -8,7 +8,7 @@
 
 • Input-fields edit Google Sheets spreadsheet cells through call to Google Apps Script.
 
-## File List
+## List of files
 
 manifest.json : Detalis extension metadata
 
